@@ -73,6 +73,7 @@ Choose up to two of these:
 - Dried figs, chopped
 - Dried bananas
 - Dried Mangoes
+- Goji berries
 - Any other type of dried fruit...
 
 ## If you have a sweet tooth
@@ -94,5 +95,6 @@ add 1/3 cup dairy-free dark chocolate (roughly chopped bar or bits)
    It should have a light to deep golden colour.
 1. Remove from the oven and let cool completely.
    If you like chunky granola, leave as is.
-   Otherwise, shuffle the mixture again now, to prevent it drying and sticking in chunks.
+   Otherwise, shuffle the mixture again now,
+   to prevent it drying and sticking in chunks.
 1. Store in an airtight container. It should keep for 3-4 weeks.
